@@ -58,3 +58,11 @@ Golpe em que criminosos enviam mensagens falsas por e-mail, SMS, WhatsApp ou red
 ## 🎨 Entregável
 
 História em quadrinho abordando o tema de **Phishing** — como o golpe acontece e como se proteger.
+
+### Reflexão Individual🤔 
+ Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?
+As novas tecnologias fortalecem os mecanismos de proteção em segurança da informação ao aumentar a capacidade de prevenir, detectar e responder a ameaças digitais. A Inteligência Artificial (IA), por exemplo, consegue identificar comportamentos suspeitos e ataques em tempo real. Já a autenticação multifator (MFA) adiciona camadas extras de segurança, exigindo mais de uma forma de verificação para acessar sistemas.
+
+Além disso, tecnologias como criptografia avançada protegem dados durante o armazenamento e a transmissão, enquanto soluções de computação em nuvem oferecem ferramentas modernas de monitoramento e backup. O uso de análise de dados também ajuda as empresas a identificar vulnerabilidades e corrigir falhas antes que sejam exploradas por criminosos.
+
+Dessa forma, as novas tecnologias tornam os sistemas mais seguros, reduzem riscos de invasões e contribuem para a proteção das informações de usuários e organizações.

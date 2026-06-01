@@ -2,7 +2,6 @@
  Grupo 5 — Avaliação 3: Segurança da Informação
 **Integrantes:** Ana Beatriz de Almeida Ramos · Christian · Erica
 ## 🎨 Entregável
-https://claude.ai/public/artifacts/965ee49f-44f2-48aa-82b3-054c3cfe8bd5
 
 História em quadrinho abordando o tema de **Phishing** — como o golpe acontece e como se proteger.
 
